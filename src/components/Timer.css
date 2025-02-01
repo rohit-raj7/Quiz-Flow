@@ -1,0 +1,14 @@
+
+  .timer-display {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #1e3a8a;
+    padding: 16px;
+  }
+  
+  
+@media only screen and (max-width: 600px) {
+  .timer-display {
+    font-size: 30px;
+  }
+}
